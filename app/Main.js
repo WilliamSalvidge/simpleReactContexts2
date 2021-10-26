@@ -29,7 +29,9 @@ function App() {
           <div>
             <main>
               <div className="display-flex-ai-jc heading-banner">
-                <h1>Hello World</h1>
+                <h1>
+                  Simple Example Using Context
+                </h1>
               </div>
               <Switch>
                 <Route exact path="/">
