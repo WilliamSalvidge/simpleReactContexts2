@@ -6,7 +6,6 @@ import {
   Route
 } from "react-router-dom";
 import Form from "./components/Form";
-import Navbar from "./components/Navbar";
 import StateContext from "./contexts/StateContext";
 import UseStateContext from "./contexts/UseStateContext";
 import Results from "./components/ResultsContext";
@@ -28,7 +27,6 @@ function App() {
       >
         <BrowserRouter>
           <div>
-            <Navbar />
             <main>
               <div className="display-flex-ai-jc heading-banner">
                 <h1>Hello World</h1>

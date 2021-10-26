@@ -1,2 +1,2 @@
-#ignore node modules
+.DS_Store
 node_modules
