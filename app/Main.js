@@ -30,7 +30,7 @@ function App() {
             <main>
               <div className="display-flex-ai-jc heading-banner">
                 <h1>
-                  Simple Example Using Context
+                  State With Context Example
                 </h1>
               </div>
               <Switch>
